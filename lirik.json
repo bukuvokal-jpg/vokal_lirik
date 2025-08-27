@@ -1,0 +1,63 @@
+[
+  {
+    "id": 001,
+    "judul": "ASSALAMU ALAIK",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_012358.jpg?raw=true"
+    ]
+  },
+  {
+    "id": 002,
+    "judul": "BUSYRO LANA",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_005611.jpg?raw=true"
+    ]
+  },
+  {
+    "id": 003,
+    "judul": "YA RASULALLAH SALAMUN ALAIK",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_010714.jpg?raw=true",
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_010955.jpg?raw=true"
+    ]
+  },
+  {
+    "id": 004,
+    "judul": "YA RASULALLAH YA NABI",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_010017.jpg?raw=true"
+    ]
+  },
+  {
+    "id": 005,
+    "judul": "YA ROBBI SHOLLI ALA MUHAMMAD",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_011307.jpg?raw=true"
+    ]
+  },
+  {
+    "id": 006,
+    "judul": "YAMMIM NAHWAL MADINAH",
+    "teks_arab": "",
+    "teks_latin": "",
+    "terjemahan": "",
+    "url_gambar": [
+      "https://github.com/bukuvokal-jpg/vokal_lirik/blob/main/gambar/20250827_011601.jpg?raw=true"
+    ]
+  }
+]
